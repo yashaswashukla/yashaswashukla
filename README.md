@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I am Yashaswa Shukla</h1>
+<h1 align="left">Hi! 👋 I am Yashaswa Shukla</h1>
 <h2 align="left">Software Developer </h2>
 
 ###
