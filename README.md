@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Yashaswa Shukla</h1>
+<h1 align="left">Hi 👋! I am Yashaswa Shukla</h1>
 <h2 align="left">Software Developer </h2>
 
 ###
@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp4dHd0ODZzcHBtemRydWM1N2pta2F3djk1Nm9rdzc2MGhkMXRxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+<img align="right" height="150" src="giphy.webp"  />
 
 ###
 
